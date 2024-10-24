@@ -9,4 +9,4 @@
 <li><a target="_blank" href="https://github.com/fynnlukah2/fynnlukah">Portfolio page</a></li>
 
 <h2>📊Github Stats</h2>
-<li><img align="center" src="https://github-readme-stats.vercel.app/api?username=fynnlukah2&show_icons=true&locale=en" alt="fynnlukah2" /></li>
+<p2><img align="center" src="https://github-readme-stats.vercel.app/api?username=fynnlukah2&show_icons=true&locale=en" alt="fynnlukah2" /></p2>
