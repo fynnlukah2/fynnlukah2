@@ -7,4 +7,5 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://github.com/fynnlukah2/fynnlukah">Portfolio page</a></li>
+<h2>📊Github Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fynnlukah2&show_icons=true&locale=en" alt="fynnlukah2" /></p>
