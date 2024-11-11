@@ -10,3 +10,5 @@
 
 <h2>📊Github Stats</h2>
 <p2><img align="center" src="https://github-readme-stats.vercel.app/api?username=fynnlukah2&show_icons=true&locale=en" alt="fynnlukah2" /></p2>
+
+[]
